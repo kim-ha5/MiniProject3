@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;100;100;1.0;1.0;0;0;N/A;Agreed on all of them
+WhyRecovered;60;100;N/A;N/A;4;4;N/A;Many of the disagreements were specificity. Author was more generic and validator was more specific but had the same ideas
+ActivityPattern;60;100;0.29;1.0;4;4;N/A;We agreed that our disagreed values have truth to them. Just picked which one was more applicable across the whole graph.
+Currentstatus;100;100;1.0;1.0;0;0;N/A;Agreed on all classifications of active
+RecentThemes;40;100;N/A;N/A;6;6;N/A;Many of the initial disagreements were the categorizing. We agreed on what the commits did but classifying them just depended on which one we felt it fell in. Also the disagreements was only for 1 of the 2 recent themes.
