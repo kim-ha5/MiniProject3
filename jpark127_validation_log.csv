@@ -1,4 +1,3 @@
-Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10;Column11;Column12
 WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);KeyEvidence;AdjudicatedValue;ResolutionType;PostDiscussAgreementStatus;Comments
 https://github.com/SOCR/SOCRAT;kha5;jpark127;HasRecovered;Not really. Just added an image;No;Yes;Longest gap 2023-02-03 to 2025-06-22 (27 zero months). Exactly one commit after the gap: 'Add files via upload' (Ivo Dinov, 2025-06-22). No further commits, issues or releases.;;;;Author value is free text rather than yes/no. Agree it maps to No.
 https://github.com/BBN-Q/QGL;kha5;jpark127;HasRecovered;Yes;Yes;Yes;Longest gap 2022-03-25 to 2024-10-07 (30 zero months). 22 real commits after the gap over 6 months (2024-10 to 2025-04) by L. Ranzani incl. PRs #285-#290, then more commits in 2025-12 and 2026-05 on GitHub.;;;;
